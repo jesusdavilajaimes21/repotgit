@@ -1,1 +1,4 @@
 contenido del fichero A
+
+
+se modifico para perfiles
